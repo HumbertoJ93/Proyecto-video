@@ -21,3 +21,8 @@ Web para subir contenido acerca de un emprendimiento propio que a su vez cuenta 
 
 **Aspectos importantes. Se que se debe mejorar los estilos asi como tambien completar el CRUD del blog. 
 Planeo seguir desarrollandolos
+
+
+
+Enlace al video de demostracion
+https://youtu.be/k-cwLCxqc7k
